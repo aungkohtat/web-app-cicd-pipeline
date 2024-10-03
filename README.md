@@ -3,6 +3,8 @@
 ### Python Web Application Deployment with Kubernetes and Jenkins
 ![](/images/web-app-cicd-pipeline.png)
 
+[web-app-cicd-pipeline link](https://lucid.app/lucidchart/f686f39d-631d-4ff1-895c-62908b5309a7/edit?viewport_loc=-80%2C-120%2C3104%2C1811%2C0_0&invitationId=inv_950b6060-0711-4702-998a-3a5a8edf8910)
+
 ## Overview
 
 This project demonstrates the automated deployment of a Python web application using Flask, Docker, Kubernetes, MySQL and Jenkins CI/CD. It also includes monitoring with Prometheus and Grafana for Jenkins servers and the Kubernetes cluster.
